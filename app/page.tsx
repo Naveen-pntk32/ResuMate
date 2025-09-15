@@ -448,7 +448,7 @@ export default function ResumeBuilder() {
             {/* Logo */}
             <div className="flex items-center">
               <Image src="/png/Resumate-logo-big.png" alt="ResuMate" width={86} height={86} />
-              <span className="ml-2 text-xl font-bold font-sans text-blue-600">ResuMate</span>
+              <span className="ml-2 text-xl font-bold font-sans text-blue-600">Resu</span>
             </div>
 
             {/* Desktop Navigation */}
